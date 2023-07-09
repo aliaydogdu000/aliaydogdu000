@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Aydogdu</h1>
 <h3 align="center">A mobile developer who loves to learn from Turkey</h3>
 
-- 🔭 I’m currently working atOyak Securities via Innovance Consultancy [OYAK TRADER PLUS](https://apps.apple.com/tr/app/oyak-trader-plus/id1568846993)
+- 🔭 I’m currently working at Oyak Securities via Innovance Consultancy [OYAK TRADER PLUS](https://apps.apple.com/tr/app/oyak-trader-plus/id1568846993)
 
 - 🌱 I’m currently learning **SwiftUI**
 

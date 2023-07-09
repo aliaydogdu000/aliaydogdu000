@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ali Aydogdu</h1>
 <h3 align="center">A mobile developer who loves to learn from Turkey</h3>
 
-- 🔭 I’m currently working at Oyak Securities via Innovance Consultancy [OYAK TRADER PLUS](https://apps.apple.com/tr/app/oyak-trader-plus/id1568846993)
+- 🔭 I’m currently working at Oyak Securities via Innovance Consultancy => [OYAK TRADER PLUS](https://apps.apple.com/tr/app/oyak-trader-plus/id1568846993)
 
 - 🌱 I’m currently learning **SwiftUI**
 
-- 👨‍💻 All of my example projects are available at [https://github.com/aliaydogdu000](https://github.com/aliaydogdu000)
+- 👨‍💻 All of my example projects are available at => [https://github.com/aliaydogdu000](https://github.com/aliaydogdu000)
 
 - 💬 Ask me about **everything to learn by researching.**
 
 - 📫 How to reach me **aydogduali000@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aliaydogdu000/](https://www.linkedin.com/in/aliaydogdu000/)
+- 📄 Know about my experiences => [https://www.linkedin.com/in/aliaydogdu000/](https://www.linkedin.com/in/aliaydogdu000/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

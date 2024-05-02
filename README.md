@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working at Oyak Securities => [OYAK TRADER PLUS](https://apps.apple.com/tr/app/oyak-trader-plus/id1568846993)
 
-- 🌱 I’m currently learning **SwiftUI**
-
 - 👨‍💻 All of my example projects are available at => [https://github.com/aliaydogdu000](https://github.com/aliaydogdu000)
 
 - 💬 Ask me about **everything to learn by researching.**
